@@ -17,11 +17,15 @@
 
 <br/>
 
-**Software developer building Discord bots, AI tooling and the web.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=600&color=ffffff&center=true&vCenter=true&width=620&background=000000&lines=I+build+Discord+bots+%26+AI+tools;Currently+building+VxCode;Open+source+%26+clean+interfaces" alt="Typing"/>
 
 <br/>
 
 [top.is-a.dev](https://top.is-a.dev) · [VxCode](https://github.com/nyxvt/VxCode) · [Echidna](https://github.com/nyxvt/echidna-bot)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nyxvt&color=000000" alt="Profile views"/>
 
 </div>
 
@@ -36,6 +40,21 @@ I care about clean systems, precise interfaces and shipping things that hold up 
 - 🤖 Author of **[Echidna](https://github.com/nyxvt/echidna-bot)** — a Discord bot
 - 🌐 **[top.is-a.dev](https://top.is-a.dev)** — live dashboard for my ticketing bot
 
+## Dashboard
+
+<table>
+  <tr>
+    <td width="50%" align="center"><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nyxvt&show_icons=true&include_all_commits=true&bg_color=000000&border_color=262626&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff&rank_icon=github&label_color=8b949e" width="100%" alt="GitHub stats"/>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center"><br/>
+      <img src="https://streak-stats.demolab.com/?user=nyxvt&background=000000&border=262626&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" width="100%" alt="GitHub streak"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
 ## Stack
 
 <table>
@@ -47,14 +66,6 @@ I care about clean systems, precise interfaces and shipping things that hold up 
     </td>
   </tr>
 </table>
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nyxvt&show_icons=true&include_all_commits=true&bg_color=000000&border_color=262626&title_color=ffffff&icon_color=ffffff&text_color=8b949e&ring_color=ffffff&rank_icon=github&label_color=8b949e" alt="GitHub stats"/>
-
-</div>
 
 ## Selected Work
 
