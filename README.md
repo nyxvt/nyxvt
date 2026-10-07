@@ -21,7 +21,7 @@
 
 <br/>
 
-[top.is-a.dev](https://top.is-a.dev) · [Echidna](https://github.com/nyxvt/echidna-bot)
+[top.is-a.dev](https://top.is-a.dev)
 
 <br/>
 
@@ -37,7 +37,6 @@
 I care about clean systems, precise interfaces and shipping things that hold up in production.
 
 - <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-telescope.svg" width="20" height="20" alt=""/> Founder of **Olzera Studios** — crafting bots for Discord communities
-- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-bot.svg" width="20" height="20" alt=""/> Author of **[Echidna](https://github.com/nyxvt/echidna-bot)** — a Discord bot
 - <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-globe.svg" width="20" height="20" alt=""/> **[top.is-a.dev](https://top.is-a.dev)** — live dashboard for my ticketing bot
 
 ## Dashboard
@@ -70,8 +69,6 @@ I care about clean systems, precise interfaces and shipping things that hold up 
 ## Selected Work
 
 <div align="center">
-
-<a href="https://github.com/nyxvt/echidna-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxvt&repo=echidna-bot&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=262626" alt="echidna-bot"/></a>
 
 <a href="https://github.com/nyxvt/top-is-a-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxvt&repo=top-is-a-dev&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=262626" alt="top-is-a-dev"/></a>
 
