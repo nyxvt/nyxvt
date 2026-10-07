@@ -61,7 +61,7 @@ I care about clean systems, precise interfaces and shipping things that hold up 
   <tr>
     <td bgcolor="#000000" align="center" width="100%">
       <br/>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nodejs,git,github,linux,vscode,discord&theme=dark" alt="Tech stack"/>
+      <img src="https://skillicons.dev/icons?i=py,go,ts,js,html,css,nodejs,git,github,linux,vscode,discord&theme=dark" alt="Tech stack"/>
       <br/><br/>
     </td>
   </tr>
