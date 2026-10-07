@@ -36,9 +36,9 @@
 **Nyx** — I design and build software for Discord communities, AI-powered tooling and the web.
 I care about clean systems, precise interfaces and shipping things that hold up in production.
 
-- 🔭 Currently building **[VxCode](https://github.com/nyxvt/VxCode)** — an AI coding agent
-- 🤖 Author of **[Echidna](https://github.com/nyxvt/echidna-bot)** — a Discord bot
-- 🌐 **[top.is-a.dev](https://top.is-a.dev)** — live dashboard for my ticketing bot
+- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-telescope.svg" width="20" height="20" alt=""/> Currently building **[VxCode](https://github.com/nyxvt/VxCode)** — an AI coding agent
+- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-bot.svg" width="20" height="20" alt=""/> Author of **[Echidna](https://github.com/nyxvt/echidna-bot)** — a Discord bot
+- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-globe.svg" width="20" height="20" alt=""/> **[top.is-a.dev](https://top.is-a.dev)** — live dashboard for my ticketing bot
 
 ## Dashboard
 
