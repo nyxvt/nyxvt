@@ -11,17 +11,17 @@
   <rect x="0.5" y="0.5" width="919" height="259" rx="11.5" fill="none" stroke="#262626"/>
   <text x="445" y="132" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="96" font-weight="700" fill="#ffffff" letter-spacing="30">NYX</text>
   <line x1="330" y1="170" x2="590" y2="170" stroke="#262626"/>
-  <text x="460" y="198" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" letter-spacing="6">BOTS · AI TOOLING · WEB</text>
+  <text x="460" y="198" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" letter-spacing="6">OLZERA STUDIOS</text>
   <text x="884" y="238" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#484f58">@nyxvt</text>
 </svg>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=600&color=ffffff&center=true&vCenter=true&width=620&background=000000&lines=I+build+Discord+bots+%26+AI+tools;Currently+building+VxCode;Open+source+%26+clean+interfaces" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=600&color=ffffff&center=true&vCenter=true&width=620&background=000000&lines=I+build+Discord+bots;Founder+of+Olzera+Studios;Open+source+%26+clean+interfaces" alt="Typing"/>
 
 <br/>
 
-[top.is-a.dev](https://top.is-a.dev) · [VxCode](https://github.com/nyxvt/VxCode) · [Echidna](https://github.com/nyxvt/echidna-bot)
+[top.is-a.dev](https://top.is-a.dev) · [Echidna](https://github.com/nyxvt/echidna-bot)
 
 <br/>
 
@@ -33,10 +33,10 @@
 
 ## About
 
-**Nyx** — I design and build software for Discord communities, AI-powered tooling and the web.
+**Nyx** — I design and build Discord bots and the tooling around them at **Olzera Studios**.
 I care about clean systems, precise interfaces and shipping things that hold up in production.
 
-- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-telescope.svg" width="20" height="20" alt=""/> Currently building **[VxCode](https://github.com/nyxvt/VxCode)** — an AI coding agent
+- <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-telescope.svg" width="20" height="20" alt=""/> Founder of **Olzera Studios** — crafting bots for Discord communities
 - <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-bot.svg" width="20" height="20" alt=""/> Author of **[Echidna](https://github.com/nyxvt/echidna-bot)** — a Discord bot
 - <img src="https://raw.githubusercontent.com/nyxvt/nyxvt/main/assets/icons/chip-globe.svg" width="20" height="20" alt=""/> **[top.is-a.dev](https://top.is-a.dev)** — live dashboard for my ticketing bot
 
@@ -71,8 +71,8 @@ I care about clean systems, precise interfaces and shipping things that hold up 
 
 <div align="center">
 
-<a href="https://github.com/nyxvt/VxCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxvt&repo=VxCode&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=262626" alt="VxCode"/></a>
 <a href="https://github.com/nyxvt/echidna-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxvt&repo=echidna-bot&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=262626" alt="echidna-bot"/></a>
+
 <a href="https://github.com/nyxvt/top-is-a-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nyxvt&repo=top-is-a-dev&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e&border_color=262626" alt="top-is-a-dev"/></a>
 
 </div>
