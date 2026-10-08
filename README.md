@@ -9,7 +9,7 @@
   <rect width="920" height="260" rx="12" fill="#000000"/>
   <rect width="920" height="260" rx="12" fill="url(#dots)"/>
   <rect x="0.5" y="0.5" width="919" height="259" rx="11.5" fill="none" stroke="#262626"/>
-  <text x="445" y="132" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="96" font-weight="700" fill="#ffffff" letter-spacing="30">NYX</text>
+  <text x="445" y="132" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="96" font-weight="700" fill="#ffffff" letter-spacing="30">.</text>
   <line x1="330" y1="170" x2="590" y2="170" stroke="#262626"/>
   <text x="460" y="198" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" letter-spacing="6">OLZERA STUDIOS</text>
   <text x="884" y="238" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#484f58">@nyxvt</text>
